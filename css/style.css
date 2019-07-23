@@ -54,6 +54,18 @@ html {
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+  /*About Page*/
+
+.aboutImage
+{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 30%;
+  margin-bottom: 5%;
+}
+
 body {
   margin: 0;
   font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
