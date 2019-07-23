@@ -64,6 +64,37 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
   width: 70%;
   height: 30%;
   margin-bottom: 5%;
+  /*box-shadow: 0 0 8px 8px;*/
+  box-shadow: 10px 10px 10px black;
+  /*padding: 2em;*/
+}
+
+.aboutImage1
+{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8%;
+  width: 70%;
+  height: 70%;
+  margin-bottom: 5%;
+  /*box-shadow: 0 0 8px 8px;*/
+  /*padding: 2em;*/
+}
+
+.aboutImage2
+{
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: 100%;
+  padding: 2em;
+}
+
+.aboutSection
+{
+
 }
 
 body {
