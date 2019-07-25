@@ -92,10 +92,40 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
   padding: 2em;
 }
 
-.aboutSection
-{
+/* Learn Page */
 
+.blockchainImage
+{
+  padding-top: 150px;
+  height: 80%;
+  width: 50%;
 }
+
+.blockchainImage2
+{
+  display: block;
+  height: 600px;
+  width: 950px;
+  margin-right: 30%;
+  margin-left: -22.5%;
+  box-shadow: 10px 10px 10px black;
+}
+
+.white-font-blockchain
+{
+  color: white;
+}
+
+.need-padding-bottom
+{
+  margin-bottom: 30px;
+}
+
+.white-font-blockchain:hover
+{
+  color: blue;
+}
+
 
 body {
   margin: 0;
