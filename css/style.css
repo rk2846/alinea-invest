@@ -7861,9 +7861,9 @@ h1, h2, h3, h4, h5,
     background-position: center center;
     position: relative;
     padding: 15em 0;
-    background: #78d5ef; }
+    background: #cd36e0f3; }
     .ftco-section-parallax .parallax-img.parallax-img-2 {
-      background: #ee76ad; }
+      background: #cd36e0f3; }
 
 .block-3 .text, .block-3 .image {
   width: 100%;
@@ -8108,7 +8108,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: #29bae4;
+  background: rgba(205, 54, 224, 0.953);
   padding: 12em 0 8em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
