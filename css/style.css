@@ -7742,11 +7742,13 @@ h1, h2, h3, h4, h5,
     width: 100%;
     height: 120px;
     z-index: 1;
+    /*
     -webkit-transform: skewY(4deg);
     -moz-transform: skewY(4deg);
     -ms-transform: skewY(4deg);
     -o-transform: skewY(4deg);
     transform: skewY(4deg);
+    */
     background-color: #fff; }
 
 .ftco-section-featured {
@@ -8359,7 +8361,9 @@ textarea.form-control {
 
 .ftco-counter {
   background: #ee76ad;
-  padding: 15em 0; }
+  padding: 7em 0;
+  margin-top: -5em;
+  margin-bottom: -5em; }
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 40px;
