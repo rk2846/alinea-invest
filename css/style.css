@@ -7858,11 +7858,12 @@ h1, h2, h3, h4, h5,
 .ftco-section-parallax {
   position: relative; }
   .ftco-section-parallax .parallax-img {
+    margin-top: -8em;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
-    padding: 15em 0;
+    padding: 7em 0;
     background: #cd36e0f3; }
     .ftco-section-parallax .parallax-img.parallax-img-2 {
       background: #cd36e0f3; }
@@ -8362,7 +8363,7 @@ textarea.form-control {
 .ftco-counter {
   background: #ee76ad;
   padding: 7em 0;
-  margin-top: -5em;
+  margin-top: -8em;
   margin-bottom: -5em; }
   .ftco-counter .text strong.number {
     font-weight: 400;
