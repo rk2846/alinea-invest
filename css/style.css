@@ -4,6 +4,33 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+ #partnershipSection
+ {
+   margin-bottom: -9em;
+ }
+
+ #enigma
+ {
+   width: 7.5em;
+   height: 7em;
+   display: inline-block;
+   margin-bottom: 3em;
+ }
+
+ #blockchain
+ {
+   width: 11em;
+   height: 5em;
+   display: inline-block;
+   margin-bottom: 3em;
+ }
+
+ #partnershipstext
+ {
+   margin-bottom: 3em;
+ }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -7731,25 +7758,7 @@ h1, h2, h3, h4, h5,
       border-color: #fff;
       color: #404044; }
 
-.ftco-degree-bg {
-  position: relative; }
-  .ftco-degree-bg:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -50px;
-    overflow: visible;
-    width: 100%;
-    height: 120px;
-    z-index: 1;
-    /*
-    -webkit-transform: skewY(4deg);
-    -moz-transform: skewY(4deg);
-    -ms-transform: skewY(4deg);
-    -o-transform: skewY(4deg);
-    transform: skewY(4deg);
-    */
-    background-color: #fff; }
+
 
 .ftco-section-featured {
   margin-top: -250px;
