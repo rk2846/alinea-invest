@@ -7529,6 +7529,8 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase; }
 
 .owl-carousel {
+  height: 25em;
+  margin-bottom: 8em;
   position: relative; }
   .owl-carousel .owl-item {
     opacity: .4; }
@@ -7586,6 +7588,8 @@ h1, h2, h3, h4, h5,
       min-height: 800px;
       position: relative; }
       .owl-carousel.home-slider .slider-item .overlay {
+        margin-bottom: 8em;
+        height: 25em;
         position: absolute;
         top: 0;
         left: 0;
@@ -8130,7 +8134,7 @@ textarea.form-control {
 
 .ftco-footer {
   font-size: 16px;
-  background: rgba(120, 8, 107);
+  background: #77588b;
   padding: 12em 0 8em 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -8381,10 +8385,11 @@ textarea.form-control {
   opacity: 0; }
 
 .ftco-counter {
-  background: rgba(120, 8, 107);
-  padding: 7em 0;
+  background: #77588b;
+  padding: 3em 0;
   margin-top: -8em;
-  margin-bottom: -5em; }
+  margin-bottom: -5em; 
+  text-align: center;}
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 40px;
@@ -8404,6 +8409,11 @@ textarea.form-control {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: .1em; }
+
+.ftco-counter h2
+{
+  margin-top: 0.5em;
+}
 
 .block-20 {
   overflow: hidden;
