@@ -7598,12 +7598,12 @@ h1, h2, h3, h4, h5,
         content: '';
         opacity: .99;
         background: #ffffff;
-        background: -moz-linear-gradient(45deg, #9c2b89 , #8b868a 100%);
-        background: -webkit-gradient(left bottom, right top, color-stop(0%, #29bae4), color-stop(100%, #ec99be));
-        background: -webkit-linear-gradient(45deg, #9c2b89    0%, #8b868a 100%);
-        background: -o-linear-gradient(45deg, #9c2b89  0%, #8b868a 100%);
-        background: -ms-linear-gradient(45deg, #9c2b89  0%, #8b868a 100%);
-        background: linear-gradient(45deg, #9c2b89  0%, #8b868a 100%);
+        background: -moz-linear-gradient(45deg, #77588b , #8b868a 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, #77588b), color-stop(100%, #ec99be));
+        background: -webkit-linear-gradient(45deg, #77588b   0%, #8b868a 100%);
+        background: -o-linear-gradient(45deg, #77588b  0%, #8b868a 100%);
+        background: -ms-linear-gradient(45deg, #9b68bd  0%, #8b868a 100%);
+        background: linear-gradient(45deg, #77588b  0%, black 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='570268', endColorstr='#af05a9', GradientType=1 ); }
       .owl-carousel.home-slider .slider-item .slider-text {
         color: #fff;
@@ -7712,6 +7712,10 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .owl-dots .owl-dot.active span {
             background: white; }
 
+.events-title
+{
+  margin-bottom: 10em;
+}
 .owl-custom-nav {
   float: right;
   position: relative;
