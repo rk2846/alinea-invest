@@ -7529,7 +7529,8 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase; }
 
 .owl-carousel {
-
+  height: 25em;
+  margin-bottom: 8em;
   position: relative; }
   .owl-carousel .owl-item {
     opacity: .4; }
@@ -7587,7 +7588,8 @@ h1, h2, h3, h4, h5,
       min-height: 800px;
       position: relative; }
       .owl-carousel.home-slider .slider-item .overlay {
-    
+        margin-bottom: 8em;
+        height: 25em;
         position: absolute;
         top: 0;
         left: 0;
@@ -7814,7 +7816,8 @@ h1, h2, h3, h4, h5,
 .services .media-body h3 {
   font-size: 17px; }
 
-
+.ftco-section-2 {
+  padding: 8em 0; }
   .ftco-section-2 .section-2-blocks-wrapper .button {
     display: block;
     position: absolute;

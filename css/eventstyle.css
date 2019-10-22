@@ -506,6 +506,7 @@ mark,
     content: "\2014 \00A0"; }
 
 .img-fluid {
+margin-top: 9em;
   max-width: 100%;
   height: auto; }
 
@@ -7384,7 +7385,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 300;
-  color: #8b8b92; }
+  color:#77588b; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -7777,6 +7778,7 @@ h1, h2, h3, h4, h5,
 
 
 .ftco-section-featured {
+background-color: #77588b;
   margin-top: -250px;
   padding-bottom: 7em; }
   .ftco-section-featured .container {
@@ -8092,7 +8094,8 @@ textarea.form-control {
 
 .ftco-animate {
   opacity: 0;
-  visibility: hidden; }
+  visibility: hidden; 
+  backgrond-color: #77588b}
 
 .bg-primary {
   background: #78d5ef !important; }
@@ -8293,6 +8296,7 @@ textarea.form-control {
 .testimony-section {
   position: relative; }
   .testimony-section .owl-carousel {
+    background-color: #77588b;
     margin: 0; }
   .testimony-section .owl-carousel .owl-stage-outer {
     padding-bottom: 2em;
@@ -8513,7 +8517,7 @@ textarea.form-control {
     box-shadow: none !important;
     border: transparent;
     background: transparent !important;
-    color: #8b8b92 !important;
+    color: #77588b !important;
     border: 2px solid rgba(0, 0, 0, 0.1);
     font-size: 14px;
     width: 100%;
@@ -8523,16 +8527,16 @@ textarea.form-control {
     border-radius: 4px; }
     .block-17 form .fields .form-control::-webkit-input-placeholder {
       /* Chrome/Opera/Safari */
-      color: #8b8b92; }
+      color: #77588b; }
     .block-17 form .fields .form-control::-moz-placeholder {
       /* Firefox 19+ */
-      color: #8b8b92; }
+      color: #77588b; }
     .block-17 form .fields .form-control:-ms-input-placeholder {
       /* IE 10+ */
-      color: #8b8b92; }
+      color: #77588b; }
     .block-17 form .fields .form-control:-moz-placeholder {
       /* Firefox 18- */
-      color: #8b8b92; }
+      color: #77588b; }
   .block-17 form .fields .icon {
     position: absolute;
     top: 50%;
